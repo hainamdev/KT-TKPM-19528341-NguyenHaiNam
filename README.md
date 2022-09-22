@@ -14,4 +14,12 @@
 <img src="/Image/Screenshot 2022-09-10 151741.png" />
 
 ## Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn
-- Cấu Trúc file
+## Thực Hành Tuần 03: Chạy chương trình JWT
+-Cấu trúc file
+<img src="/Image/tuan03_04.png" />
+- Đăng kí tài khoản
+<img src="/Image/tuan03.png" />
+- Đăng nhập tài khoản 
+<img src="/Image/tuan03_02.png" />
+- Lấy dữ liệu bằng JWT token
+<img src="/Image/tuan03_03.png" />
