@@ -16,7 +16,7 @@
 </details>
 
 <details open>
- <summary><h1>Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn</h1></summary>
+ <summary><h1>Thực Hành Tuần 02: Tạo UI nhận và UI gửi Tin nhắn bằng ActiveMQ</h1></summary>
  <h4> Project nằm trong folder send-Message-app </h4>
 </details>
 
