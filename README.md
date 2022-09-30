@@ -4,6 +4,7 @@
 #### Lớp Sinh Viên: DHKTPM15CTT
 
 ## Thực Hành Tuần 01: Cài đặt ActiveMQ và test ActiveMQ
+#### Project nằm trong folder test-ActiveMQ
 - Cấu Trúc file
 <img src="/Image/Screenshot 2022-09-10 150807.png" />
 - Sender thực hiện gửi 10 tin nhắn
@@ -14,7 +15,9 @@
 <img src="/Image/Screenshot 2022-09-10 151741.png" />
 
 ## Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn
+#### Project nằm trong folder send-Message-app
 ## Thực Hành Tuần 03: Chạy chương trình JWT
+#### Project nằm trong folder DEMO
 -Cấu trúc file
 <img src="/Image/tuan03_04.png" />
 - Đăng kí tài khoản
