@@ -5,7 +5,6 @@
 <details open>
 <summary><h1>Thực Hành Tuần 01: Cài đặt ActiveMQ và test ActiveMQ</h1></summary>
 <br>
-
 #### Project nằm trong folder test-ActiveMQ
 - Cấu Trúc file
 <img src="/Image/Screenshot 2022-09-10 150807.png" />
@@ -15,12 +14,17 @@
 <img src="/Image/Screenshot 2022-09-10 151401.png" />
 - Trang ActiveMQ Local
 <img src="/Image/Screenshot 2022-09-10 151741.png" />
-
 </details>
 
-## Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn
+<details open>
+ <summary><h1>Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn</h1></summary>
+<br>
 #### Project nằm trong folder send-Message-app
-## Thực Hành Tuần 03: Chạy chương trình JWT
+</details>
+
+<details open>
+  <summary><h1>Thực Hành Tuần 03: Chạy chương trình JWT</h1></summary>
+<br>
 #### Project nằm trong folder DEMO
 -Cấu trúc file
 <img src="/Image/tuan03_04.png" />
@@ -30,3 +34,19 @@
 <img src="/Image/tuan03_02.png" />
 - Lấy dữ liệu bằng JWT token
 <img src="/Image/tuan03_03.png" />
+</details>
+
+<details open>
+<summary><h1>Thực Hành Tuần 04: Thực Spring - Data -JPA </h1></summary>
+<br>
+  - Câu 1 và câu 5: chung 1 API tìm đường bay bằng điểm đến hoặc điểm đi hoặc cả 2 
+  <img src="/Image/jpa-cau01.png" />
+  <img src="/Image/jpa-cau05.png" />
+  - Câu 2 và câu 4: chung 1 API tìm dộ dài đường bay trong 1 khoảng
+  <img src="/Image/jpa-cau02.png" />
+  - Câu 6: Có bao nhiêu chuyến bay xuất phát từ Sài Gòn (SGN)
+  <img src="/Image/jpa-cau06.png" />
+  - Câu 8: Cho biết tổng số lương phải trả cho các nhân viên
+  <img src="/Image/jpa-cau08.png" />
+  
+</details>
