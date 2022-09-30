@@ -2,8 +2,10 @@
 #### Sinh viên: Nguyễn Hải Nam 
 #### MSSV: 19528341
 #### Lớp Sinh Viên: DHKTPM15CTT
+<details open>
+<summary>## Thực Hành Tuần 01: Cài đặt ActiveMQ và test ActiveMQ</summary>
+<br>
 
-## Thực Hành Tuần 01: Cài đặt ActiveMQ và test ActiveMQ
 #### Project nằm trong folder test-ActiveMQ
 - Cấu Trúc file
 <img src="/Image/Screenshot 2022-09-10 150807.png" />
@@ -13,6 +15,8 @@
 <img src="/Image/Screenshot 2022-09-10 151401.png" />
 - Trang ActiveMQ Local
 <img src="/Image/Screenshot 2022-09-10 151741.png" />
+
+</details>
 
 ## Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn
 #### Project nằm trong folder send-Message-app
