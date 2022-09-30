@@ -4,8 +4,7 @@
 #### Lớp Sinh Viên: DHKTPM15CTT
 <details open>
 <summary><h1>Thực Hành Tuần 01: Cài đặt ActiveMQ và test ActiveMQ</h1></summary>
-<br>
-#### Project nằm trong folder test-ActiveMQ
+ <h4> Project nằm trong folder test-ActiveMQ</h4>
 - Cấu Trúc file
 <img src="/Image/Screenshot 2022-09-10 150807.png" />
 - Sender thực hiện gửi 10 tin nhắn
@@ -18,13 +17,11 @@
 
 <details open>
  <summary><h1>Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn</h1></summary>
-<br>
  <h4> Project nằm trong folder send-Message-app </h4>
 </details>
 
 <details open>
   <summary><h1>Thực Hành Tuần 03: Chạy chương trình JWT</h1></summary>
-<br>
  <h4> Project nằm trong folder DEMO </h4>
 -Cấu trúc file
 <img src="/Image/tuan03_04.png" />
@@ -38,7 +35,6 @@
 
 <details open>
 <summary><h1>Thực Hành Tuần 04: Thực Spring - Data -JPA </h1></summary>
-<br>
   - Câu 1 và câu 5: chung 1 API tìm đường bay bằng điểm đến hoặc điểm đi hoặc cả 2 
   <img src="/Image/jpa-cau01.png" />
   <img src="/Image/jpa-cau05.png" />
@@ -48,5 +44,4 @@
   <img src="/Image/jpa-cau06.png" />
   - Câu 8: Cho biết tổng số lương phải trả cho các nhân viên
   <img src="/Image/jpa-cau08.png" />
-  
 </details>
