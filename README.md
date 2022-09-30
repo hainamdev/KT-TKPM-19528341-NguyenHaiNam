@@ -19,13 +19,13 @@
 <details open>
  <summary><h1>Thực Hành Tuần 02: Sử dụng ActiveMQ, tạo 2 UI, UI nhận và UI gửi Tin nhắn</h1></summary>
 <br>
-#### Project nằm trong folder send-Message-app
+ <h4> Project nằm trong folder send-Message-app </h4>
 </details>
 
 <details open>
   <summary><h1>Thực Hành Tuần 03: Chạy chương trình JWT</h1></summary>
 <br>
-#### Project nằm trong folder DEMO
+ <h4> Project nằm trong folder DEMO </h4>
 -Cấu trúc file
 <img src="/Image/tuan03_04.png" />
 - Đăng kí tài khoản
