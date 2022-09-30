@@ -35,6 +35,7 @@
 
 <details open>
 <summary><h1>Thực Hành Tuần 04: Thực Spring - Data -JPA </h1></summary>
+ <h4> Project nằm trong folder flight-data-jpa</h4>
   - Câu 1 và câu 5: chung 1 API tìm đường bay bằng điểm đến hoặc điểm đi hoặc cả 2 
   <img src="/Image/jpa-cau01.png" />
   <img src="/Image/jpa-cau05.png" />
