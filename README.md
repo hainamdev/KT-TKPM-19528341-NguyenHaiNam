@@ -2,7 +2,7 @@
 #### Sinh viên: Nguyễn Hải Nam 
 #### MSSV: 19528341
 #### Lớp Sinh Viên: DHKTPM15CTT
-<details open>
+<details close>
 <summary><h1>Thực Hành Tuần 01: Cài đặt ActiveMQ và test ActiveMQ</h1></summary>
  <h4> Project nằm trong folder test-ActiveMQ</h4>
 - Cấu Trúc file
@@ -15,12 +15,12 @@
 <img src="/Image/Screenshot 2022-09-10 151741.png" />
 </details>
 
-<details open>
+<details close>
  <summary><h1>Thực Hành Tuần 02: Tạo UI nhận và UI gửi Tin nhắn bằng ActiveMQ</h1></summary>
  <h4> Project nằm trong folder send-Message-app </h4>
 </details>
 
-<details open>
+<details close>
   <summary><h1>Thực Hành Tuần 03: Chạy chương trình JWT</h1></summary>
  <h4> Project nằm trong folder DEMO </h4>
 -Cấu trúc file
@@ -33,7 +33,7 @@
 <img src="/Image/tuan03_03.png" />
 </details>
 
-<details open>
+<details close>
 <summary><h1>Thực Hành Tuần 04: Thực Spring - Data -JPA </h1></summary>
  <h4> Project nằm trong folder flight-data-jpa</h4>
   - Câu 1 và câu 5: chung 1 API tìm đường bay bằng điểm đến hoặc điểm đi hoặc cả 2 
