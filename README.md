@@ -46,3 +46,12 @@
   - Câu 8: Cho biết tổng số lương phải trả cho các nhân viên
   <img src="/Image/jpa-cau08.png" />
 </details>
+
+<details close>
+ <summary><h1>Thực Hành Tuần 05:</h1></summary>
+
+</details>
+<details close>
+ <summary><h1>Thực Hành Tuần 06:</h1></summary>
+
+</details>
