@@ -54,6 +54,7 @@
 <details close>
  <summary><h1>Thực Hành Tuần 06:</h1></summary>
 <h4> Project nằm trong folder spring_boot_activemq</h4>
-  <img src="/Image/tuan06-01.png" />
-  <img src="/Image/tuan06-02.png" />
+  <img src="/Image/Tuan06-01.png" />
+  <img src="/Image/Tuan06-02.png" />
+ <img src="/Image/Tuan06-03.png" />
 </details>
