@@ -57,4 +57,5 @@
   <img src="/Image/Tuan06-01.png" />
   <img src="/Image/Tuan06-02.png" />
  <img src="/Image/Tuan06-03.png" />
+  <img src="/Image/Tuan06-04.png" />
 </details>
