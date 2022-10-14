@@ -53,5 +53,8 @@
 </details>
 <details close>
  <summary><h1>Thực Hành Tuần 06:</h1></summary>
-
+<h4> Project nằm trong folder spring_boot_activemq</h4>
+  - Câu 1 và câu 5: chung 1 API tìm đường bay bằng điểm đến hoặc điểm đi hoặc cả 2 
+  <img src="/Image/tuan06-01.png" />
+  <img src="/Image/tuan06-02.png" />
 </details>
