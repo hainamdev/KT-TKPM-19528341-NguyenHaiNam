@@ -59,3 +59,13 @@
  <img src="/Image/Tuan06-03.png" />
   <img src="/Image/Tuan06-04.png" />
 </details>
+
+
+<details close>
+ <summary><h1>Thực Hành Tuần 07: Rest Template</h1></summary>
+<h4> Project nằm trong folder restTemplate</h4>
+  <img src="/Image/Tuan07-01.png" />
+  <img src="/Image/Tuan07-02.png" />
+ <img src="/Image/Tuan07-03.png" />
+  <img src="/Image/Tuan07-04.png" />
+</details>
